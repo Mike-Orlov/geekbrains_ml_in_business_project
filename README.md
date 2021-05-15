@@ -5,6 +5,7 @@
 
 ML: sklearn, pandas, numpy, xgboost
 API: flask
+
 Данные: с kaggle - https://www.kaggle.com/c/sberbank-russian-housing-market/data
 
 Задача: предсказать цену жилья по известным признакам (общая площадь, год постройки дома, число комнат)
